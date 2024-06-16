@@ -3,7 +3,7 @@ I'm currently a Student looking to get their foot in the door in a Web Developer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-keogh-94888a28b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-keogh-94888a28b/) </br>
 [your.email@example.com](mailto:your.email@example.com)
 
 # 💻 Stack:
