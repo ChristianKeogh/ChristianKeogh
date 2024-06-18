@@ -7,7 +7,7 @@ I'm currently a Student looking to get their foot in the door in a Web Developer
 ## 🌐 Socials:
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/christian-keogh-94888a28b/) </br>
 - [Email](mailto:Christianfkeogh@gmail.com) </br>
-- [CV](Curriculum Vitae 2024.pdf) </br>
+- [CV](Curriculum-Vitae-2024.pdf) </br>
 
 
 # 💻 Stack:
