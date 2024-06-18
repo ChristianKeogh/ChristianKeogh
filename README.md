@@ -5,9 +5,9 @@ I'm currently a Student looking to get their foot in the door in a Web Developer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/christian-keogh-94888a28b/) </br>
-[Christianfkeogh@gmail.com](mailto:Christianfkeogh@gmail.com)
-[My CV](mailto:Christianfkeogh@gmail.com)
+- [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/christian-keogh-94888a28b/) </br>
+- [Email](mailto:Christianfkeogh@gmail.com) </br>
+- [CV](Curriculum Vitae 2024.pdf) </br>
 
 
 # 💻 Stack:
