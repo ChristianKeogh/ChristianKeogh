@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Student looking to get their foot in the door in a Web Developer role. Formerly professional designer for Animation that is making a career change. <br>
+I'm currently an Intern in the process of getting their foot in the door in a Web Developer role. Formerly professional designer for Animation that is making a career change. <br>
 
 
 
