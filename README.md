@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend developer with Ryanair, specialising in Angular, with some react. <br>
+I'm a Frontend developer at Ryanair Labs, specialising in the Angular ecosystem <br>
 
 
 ## 🌐 Socials:
