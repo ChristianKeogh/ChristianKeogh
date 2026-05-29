@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend developer at Ryanair Labs, specialising in the Angular ecosystem <br>
+I'm a UI Software Engineer at Darktrace <br>
 
 
 ## 🌐 Socials:
